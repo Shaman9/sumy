@@ -7,7 +7,7 @@
     <script src="ajax.js" type="text/javascript"></script>
     <title>Реєстрація</title>
 </head>
-    
+    /*nice code*/
     <body>
         <header>
             
